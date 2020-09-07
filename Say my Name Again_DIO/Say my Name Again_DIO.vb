@@ -1,4 +1,11 @@
-﻿Option Strict On
+﻿'Ivan Ochoa
+'RCET0265
+'Fall 2020
+'say my name again
+'https://github.com/ochodieg?tab=repositories
+
+
+Option Strict On
 Option Explicit On
 Option Compare Text
 
